@@ -2,7 +2,7 @@ resources:
   - name: app
     type: GitRepo
     configuration:
-      gitProvider: myGitHub
-      path: myproject/app
+      gitProvider: JackGithub
+      path: Amazing-Jack/JFrog-Pipeline-Demo
       branches:
         include: master
